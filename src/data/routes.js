@@ -27,4 +27,8 @@ export const nav = [
     label: "Project",
     href: "/project",
   },
+  {
+    label: "Message",
+    href: "/Message",
+  },
 ];
